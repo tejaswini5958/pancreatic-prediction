@@ -28,8 +28,8 @@ This is the **React frontend** for the **Pancreatic Cancer Predictor** web app. 
 
 ```bash
 # Clone the repo
-git clone https://github.com/tejaswini5958/pancreatic-cancer-predictor-frontend.git
-cd pancreatic-cancer-predictor-frontend
+git clone https://github.com/your-username/pancreatic-prediction.git
+cd pancreatic-prediction
 
 # Install dependencies
 npm install
